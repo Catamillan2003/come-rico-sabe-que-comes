@@ -13,7 +13,7 @@ if (menuButton && nav) {
 }
 
 // Después de desplegar el Worker, pega aquí su URL HTTPS.
-const GEMINI_CHAT_ENDPOINT = 'https://come-rico-gemini.catamillan2003.workers.dev';
+const GEMINI_CHAT_ENDPOINT = "https://come-rico-gemini.catamillan2003.workers.dev";
 const launcher = document.getElementById('chatLauncher');
 const panel = document.getElementById('chatPanel');
 const closeChat = document.getElementById('chatClose');
